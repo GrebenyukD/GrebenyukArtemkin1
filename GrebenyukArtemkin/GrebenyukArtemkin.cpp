@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "GrebenyukArtemkin!\n";
+    std::cout << "blablablaGrebenyukArtemkin!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
